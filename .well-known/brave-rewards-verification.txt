@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: anirudhp06.github.io
+Token: 063c2a023e4b31b2035d4eaa234bbc64b80f673f245764c183086ab87c70e7c6
