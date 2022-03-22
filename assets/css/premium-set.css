@@ -1,0 +1,50 @@
+div {
+    border: 1px solid gray;
+    padding: 8px;
+  }
+  
+  h1 {
+    text-align: left;
+    text-transform: uppercase;
+    color: white;
+  }
+  h2 {
+    text-align: left;
+    text-transform: uppercase;
+    color: white;
+  }
+  h3 {
+    text-align: left;
+    text-transform: uppercase;
+    color: white;
+  }
+  h4 {
+    text-align: left;
+    text-transform: uppercase;
+    color: white;
+  }
+  h5 {
+    text-align: left;
+    text-transform: uppercase;
+    color: white;
+  }
+  h6 {
+    text-align: left;
+    text-transform: uppercase;
+    color: white;
+  }
+  
+  p {
+    text-indent: 50px;
+    text-align: center;
+    letter-spacing: 3px;
+    color: white;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #008CBA;
+  }
+  body{
+      color:white
+  }
