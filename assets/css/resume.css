@@ -1,0 +1,47 @@
+.about-secton {
+    border: 5px outset black;
+    background-color: blue; 
+    position: relative;
+}
+div {
+    border: 1px solid gray;
+    padding: 8px;
+  }
+  
+  h1 {
+    text-transform: capitalize;
+    color: black;
+  }
+  h2 {
+    text-transform: capitalize;
+    color: black;
+  }
+  h3 {
+    text-transform: capitalize;
+    color: black;
+  }
+  h4 {
+    text-transform: capitalize;
+    color: black;
+  }
+  h5 {
+    text-transform: capitalize;
+    color: black;
+  }
+  h6 {
+    text-transform: capitalize;
+    color: black;
+  }
+  
+  p {
+    letter-spacing: 3px;
+    color: black;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #008CBA;
+  }
+  body{
+      color:black
+  }
